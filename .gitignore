@@ -1,0 +1,13 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# Build directories
+build/
+bin/
+
+# IDE files
+.vscode/
+*.vcxproj.user
