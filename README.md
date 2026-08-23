@@ -1,7 +1,7 @@
 # Parallel Merge Sort – Client/Server
 
 [![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp/17)
-[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/win32/winsock/window-sockets-start-page-2)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/win32/winsock/windows-sockets-start-page-2)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/kk-georgiev/parallel-merge-sort/blob/main/LICENSE)
 
 A client-server application written in **C++** that demonstrates and benchmarks single-threaded vs multi-threaded Merge Sort across multiple simultaneous clients.
